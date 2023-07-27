@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Amazon-site/static/css/main.57e7da7c.css",
+    "main.js": "/Amazon-site/static/js/main.e849788a.js",
+    "static/media/amazon.gif": "/Amazon-site/static/media/amazon.592cb9bf8a79e670063b.gif",
+    "static/media/image_processing20210430-25202-1ercy3j.gif": "/Amazon-site/static/media/image_processing20210430-25202-1ercy3j.63254d1184fe77b501b5.gif",
+    "static/media/fa-solid-900.ttf": "/Amazon-site/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/loading2.gif": "/Amazon-site/static/media/loading2.0413b0b217fd0465df79.gif",
+    "static/media/slider5.jpg": "/Amazon-site/static/media/slider5.610c588b058c87ea19aa.jpg",
+    "static/media/slider7.jpg": "/Amazon-site/static/media/slider7.98b0f0bb54ff1eb25af5.jpg",
+    "static/media/slider3.jpg": "/Amazon-site/static/media/slider3.f772b01a55a43d182f50.jpg",
+    "static/media/slider2.jpg": "/Amazon-site/static/media/slider2.76876eaf9204f7efa5b0.jpg",
+    "static/media/slider8.jpg": "/Amazon-site/static/media/slider8.c6db0457c4db8b3be6b8.jpg",
+    "static/media/fa-brands-400.ttf": "/Amazon-site/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/slider4.jpg": "/Amazon-site/static/media/slider4.6ec140a869c26a7aaf60.jpg",
+    "static/media/slider1.jpg": "/Amazon-site/static/media/slider1.2bde8365052ceb936a0a.jpg",
+    "static/media/fa-solid-900.woff2": "/Amazon-site/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/slider6.jpg": "/Amazon-site/static/media/slider6.5c46898f35481848085f.jpg",
+    "static/media/slider9.jpg": "/Amazon-site/static/media/slider9.25089c4322a10e0f75b3.jpg",
+    "static/media/fa-brands-400.woff2": "/Amazon-site/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Amazon-site/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/kindpng_207045.png": "/Amazon-site/static/media/kindpng_207045.79d0180e63289eba2cc8.png",
+    "static/media/R.png.png": "/Amazon-site/static/media/R.png.9777e5d76b6cc832f98c.png",
+    "static/media/fa-regular-400.woff2": "/Amazon-site/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/empty_wishlist.png": "/Amazon-site/static/media/empty_wishlist.7f7fd1ed32f49b0324e7.png",
+    "static/media/fa-v4compatibility.ttf": "/Amazon-site/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/empty-cart.webp": "/Amazon-site/static/media/empty-cart.4d0154b0a2c9fe9f2c5d.webp",
+    "static/media/fa-v4compatibility.woff2": "/Amazon-site/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/Amazon-site/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Amazon-site/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Amazon-site/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Amazon-site/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Amazon-site/index.html",
+    "main.57e7da7c.css.map": "/Amazon-site/static/css/main.57e7da7c.css.map",
+    "main.e849788a.js.map": "/Amazon-site/static/js/main.e849788a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57e7da7c.css",
+    "static/js/main.e849788a.js"
+  ]
+}
